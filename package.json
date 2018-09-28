@@ -2,6 +2,7 @@
   "name": "react-data-grid",
   "private": true,
   "description": "Data grid for React",
+  "version": "4.0.8",
   "main": "src/index.js",
   "scripts": {
     "pretest": "npm run eslint",
